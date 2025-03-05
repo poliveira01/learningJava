@@ -1,6 +1,6 @@
 /*
 
-1. Functions — Simple Calculator
+ Functions — Simple Calculator
 
 Create a function called calculate that takes two numbers and an operator (+, -, *, /). The function should return the result of the operation.
 
